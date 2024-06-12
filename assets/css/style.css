@@ -92,7 +92,7 @@ html {
 body {
   
      /*background: linear-gradient(to right, #0c0c0cfa, #0b0303be 90%);*/
-    background-image: url("/assets/img/cover.jpg");
+    background-image: url("assets/img/cover.jpg");
     color: var(--text-color);
     scroll-behavior: smooth;
     margin: auto;
